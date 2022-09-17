@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f046257f-bb93-499a-a212-306509969020": {
+      "ProjectGuid": "f046257f-bb93-499a-a212-306509969020",
+      "DisplayName": "AzureAppInsightsWebApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
